@@ -88,11 +88,11 @@
 # print('Curso', curso)
 # print('Salário R$', salario)
 
-print("Atividade1: ")
+# print("Atividade1: ")
 
-n1 = int(input("digite um número inteiro: "))
-calc = n1* n1
-print(calc)
+# n1 = int(input("digite um número inteiro: "))
+# calc = n1 ** 2
+# print(calc)
 
 
 # print('Atividade2: ')
@@ -105,7 +105,7 @@ print(calc)
 
 # n1 = input('Digite um numero')
 # n2 = input('Digite outro numero')
-#print(str(n1),str(n2))
+# print(str(n1),str(n2))
 
 # print('Atividade4: ')
 
@@ -113,9 +113,9 @@ print(calc)
 # n3 = int(input('digite um número: '))
 # print (nome, n3)
 
-# print('Atividade5: ')
+print('Atividade5: ')
 
-# frase1 = "Você pensa que o flamengo é time?"
-# print(frase1)
-# frase2 = str(input('Qual é a sua resposa?'))
-# print(frase1, frase2, 'O FLAMENGO E SELEÇÂO')
+frase1 = "Você pensa que o flamengo é time?"
+print(frase1)
+frase2 = str(input('Qual é a sua resposta? '))
+print(frase1, frase2, 'O FLAMENGO E SELEÇÂO')
